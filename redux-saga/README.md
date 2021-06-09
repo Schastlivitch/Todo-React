@@ -1,1 +1,1 @@
-# Todolist redux-saga
+# Todolist с бэкендом на redux-saga
